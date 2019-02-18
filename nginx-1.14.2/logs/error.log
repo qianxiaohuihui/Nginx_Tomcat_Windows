@@ -1,0 +1,19 @@
+2019/02/15 11:22:29 [emerg] 7224#4600: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/02/15 11:27:28 [emerg] 2424#6924: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/02/15 11:31:39 [emerg] 5492#5320: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/02/15 11:39:43 [notice] 1620#1624: signal process started
+2019/02/15 11:39:46 [notice] 9000#7344: signal process started
+2019/02/15 11:39:46 [error] 9000#7344: CreateFile() "f:\TomcatTest\Nginx\nginx-1.14.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/02/15 11:40:03 [notice] 7512#5444: signal process started
+2019/02/15 11:51:51 [notice] 3824#6328: signal process started
+2019/02/15 11:52:00 [notice] 7016#6836: signal process started
+2019/02/15 11:52:00 [error] 7016#6836: CreateFile() "F:\TomcatTest\Nginx\nginx-1.14.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/02/15 11:56:28 [notice] 2320#3192: signal process started
+2019/02/15 11:56:31 [notice] 5328#7508: signal process started
+2019/02/15 11:56:31 [error] 5328#7508: CreateFile() "F:\TomcatTest\Nginx\nginx-1.14.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/02/15 11:59:49 [notice] 8176#7032: signal process started
+2019/02/18 14:43:12 [notice] 9260#9264: signal process started
+2019/02/18 14:44:00 [notice] 8480#9448: signal process started
+2019/02/18 14:44:00 [error] 8480#9448: CreateFile() "F:\TomcatTest\Nginx\nginx-1.14.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/02/18 14:46:59 [notice] 7692#8672: signal process started
+2019/02/18 14:46:59 [error] 7692#8672: CreateFile() "F:\TomcatTest\Nginx\nginx-1.14.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
