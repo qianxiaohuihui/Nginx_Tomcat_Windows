@@ -66,3 +66,25 @@ http {
         } 
     }
 }
+
+
+
+使用命令操作Nginx，先将路径跳转到Nginx所在目录。
+
+启动nginx:		<br/>
+nginx.exe	  	<br/>
+start nginx		<br/>
+
+停止nginx:		<br/>
+nginx -s stop		<br/>
+nginx -s quit		<br/>
+
+查看nginx版本：		<br/>
+nginx -v		<br/>
+nginx -V		<br/>
+
+重载nginx：		<br/>
+nginx -s reload		<br/>
+
+重新打开日志文件:	<br/>
+nginx -s reopen
